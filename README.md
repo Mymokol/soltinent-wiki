@@ -32,9 +32,9 @@ Please adhere to these commit guidelines when commiting your files, for the sake
 - The description of your commit can contain additional information, such as details of what exactly you added, updated or corrected, or whatever else you please.
 - Commit to the main branch, if:
   - You're reasonably certain that your commit will not damage the information on the wiki.
-  - Correcting typographical errors
-  - Adding information the party agrees is true
-  - Adding information about your own character, that you want to share
+  - You're correcting typographical errors
+  - You're adding information the party agrees is true
+  - You're adding information about your own character, that you want to share
 - You should not commit to the main branch and instead create a new branch and start a pull request, if:
   - The information you're adding is a hypothesis, or isn't certain.
   - You aren't sure whether your addition is correct, in respect to the party's knowledge.
