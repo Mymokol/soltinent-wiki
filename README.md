@@ -8,13 +8,15 @@ Wiki of the Soltinent D&amp;D campaign
 ## Submission Guidelines
 
 In order to change any information on the wiki, you need to have a GitHub account, and I need to add you to the list of people who can commit to the repo.
+Please read the following guidelines before making any changes to the repository.
 
 ### Submitting new wiki files
 
 You are welcome to add any new information to the wiki. Please keep to the guidelines when adding new files:
 - Add wiki files exclusively as .md files. You can find the formatting guidelines for .md files [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Additional information can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+- When adding a new file, always choose the correct directory to add it to. For example, when adding a character file, add it to the characters directory, when adding a new place, choose the Geography directory, and so on.
+- You can create a new directory if you feel like it's needed, but always first consider, if your file couldn't go into any of the existing directories. In case you decide to add a new directory, always create a pull request instead of committing directly to main. See the Commits section below.
 - Before using some form of formatting, please read the corresponding section of the [formatting documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) carefully. It is possible to format text, create lists or task lists, create links, tables, or even embed images. But it is important to follow the markdown rules carefully.
-- There are tags in GitHub, but I haven't figured out how they work yet, sorry. I'll add info about them when I learn more.
 
 ### Commits
 
@@ -37,3 +39,4 @@ Please adhere to these commit guidelines when commiting your files, for the sake
   - The information you're adding is a hypothesis, or isn't certain.
   - You aren't sure whether your addition is correct, in respect to the party's knowledge.
   - You're deleting files or any information from the wiki.
+  - You're adding a new directory into the repository.
