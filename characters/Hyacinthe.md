@@ -12,8 +12,8 @@
 Hyacinthovou vášní jsou dechové nástroje všech možných druhů. Také ho baví ethnologie, která se stala jeho hlavním povoláním. Není původem z Kroondu, ale neřekl vám, odkud je. V Kroondu však žije s malou Clémentinkou a Pískačem již téměř pět let.
 
 ## Související osoby:
-Clémentine Peaud'lafemme (dcera)
-Pískač (nejlepší přítel, kolega)
-Fretzeldurmf Lahaver (rival, kolega)
-Letitia Sophia Daymon (známá, nadřízená)
-Drtič (známý) 
+- Clémentine Peaud'lafemme (dcera)
+- Pískač (nejlepší přítel, kolega)
+- Fretzeldurmf Lahaver (rival, kolega)
+- Letitia Sophia Daymon (známá, nadřízená)
+- Drtič (známý) 
