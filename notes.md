@@ -90,8 +90,11 @@ Došli jsme na vrchol hory a našli jeskyni. Vlezli jsme tam a dali short rest.
 Zkoumáme jeskyni. Na zdech jsou malby - asi vyřezáno nožem, obsahově viz. “Hafdan was here” or “Your mother”. Joki to poctil kouskem vlastního umění:
 
 >*Byl jsem tu*
+>
 >*Přijdu zas*
+>
 >*S tvou matkou*
+>
 >*Máš krátký ocas*
 >
 >*-J.V.* 
