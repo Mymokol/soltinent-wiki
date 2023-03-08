@@ -89,15 +89,12 @@ Došli jsme na vrchol hory a našli jeskyni. Vlezli jsme tam a dali short rest.
 
 Zkoumáme jeskyni. Na zdech jsou malby - asi vyřezáno nožem, obsahově viz. “Hafdan was here” or “Your mother”. Joki to poctil kouskem vlastního umění:
 
-Byl jsem tu
-
-Přijdu zas
-
-S tvou matkou
-
-Máš krátký ocas
-
--J.V. 
+>*Byl jsem tu*
+>*Přijdu zas*
+>*S tvou matkou*
+>*Máš krátký ocas*
+>
+>*-J.V.* 
  
 Opustíme jeskyni a noříme se do mlhomraků. William nás dovede na vrcholek hory. Tučňáci jsou cannon. Nelítají hadi náhodou ve vodě? Voda tu není. Vrcholek hory je pustý, je tu jen vítr a divné struktury - mohyly. Asi jsou prázdné. Joki nechce ostatní vykouřit. Jsou tam menhiry - v nich díry - asi hnízdo hadů? Joki zkusí hnízdem prohnat oheň, ale nic se nestalo. 
 
